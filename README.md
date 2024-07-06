@@ -6,7 +6,7 @@ Hello! I'm Brian, a passionate and self-taught programmer with over a decade of 
 
 ## What You’ll Find Here
 
-This repository is a showcase of my work, designed to give potential employers a comprehensive view of my skills and capabilities. Once I get eveerything loaded to this repo you will find:
+This repository is a showcase of my work, designed to give potential employers a comprehensive view of my skills and capabilities. Once I get everything loaded to this repo you will find:
 
 - **Python Projects:** Scripts, applications, and tools developed using Python and Django.
 - **Bash/Shell Scripts:** Automation scripts for various tasks on Linux systems.
