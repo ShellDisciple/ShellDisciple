@@ -6,7 +6,7 @@ Hello! I'm Brian, a passionate and self-taught programmer with over a decade of 
 
 ## What You’ll Find Here
 
-This repository is a showcase of my work, designed to give potential employers a comprehensive view of my skills and capabilities. Here, you will find:
+This repository is a showcase of my work, designed to give potential employers a comprehensive view of my skills and capabilities. Once I get eveerything loaded to this repo you will find:
 
 - **Python Projects:** Scripts, applications, and tools developed using Python and Django.
 - **Bash/Shell Scripts:** Automation scripts for various tasks on Linux systems.
@@ -25,14 +25,10 @@ This repository is a showcase of my work, designed to give potential employers a
 
 ## Why Hire Me?
 
-I bring a solid-state foundation in programming, seasoned with the wisdom and reliability of a thoroughly tested developer. My self-taught journey has made me resourceful and adept at tackling new challenges. Though I may not be entirely bug-free, you can count on me to perform reliably and thread-safely in any dynamic environment. I'm eager to hit the ground running and excited to contribute my expertise from boot-up. I’m committed to proving my worth before expecting any stack options. Your invocation to innovate aligns perfectly with my processes, making this the ideal opportunity for us to script a brighter future and ensure uninterrupted uptime.
+I bring a robust, solid-state foundation in programming, built on the wisdom and reliability of a seasoned, thoroughly-tested developer. I've fine-tuned my skills in Python, Django, Bash, and front-end technologies, always eager to debug new challenges and compile success. While I may not be entirely bug-free, you can count on me to perform reliably and thread-safely in any dynamic environment. Ready to hit the ground running, I’m excited to contribute my expertise from boot-up. I’m committed to proving my worth before expecting any stack options. Your invocation to innovate aligns perfectly with my processes, making this the ideal opportunity for us to script a brighter future and ensure uninterrupted uptime.
 
 ## Get in Touch
 
 Feel free to explore my projects and reach out if you have any questions or opportunities. I'm always looking to learn, grow, and collaborate with like-minded individuals.
-
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Portfolio:** [Your Portfolio Website]
 
 Thank you for visiting my GitHub repository!
