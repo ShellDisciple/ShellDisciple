@@ -1,3 +1,7 @@
+### Stay tuned! 
+
+This GitHub is a work in progress. I wasn’t planning on looking for work so abruptlty. I’m working tirelessly to get some content for my portfolio. Please reach out to me for any reason, I’m very approachable!
+
 # Welcome to My GitHub Repository
 
 ## About Me
